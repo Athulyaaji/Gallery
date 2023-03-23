@@ -1,0 +1,27 @@
+.c{
+    width: 32%;
+    height:1688px;
+    background-color:black;
+    color: aliceblue;
+    border:white 23px solid;
+    float: left;
+    
+    padding: 10px;
+
+}
+img{
+    width: 61%;
+    height: 1395px;
+    margin-left:387px;
+    margin-top: 1px;
+}
+h2{
+    text-align: center;
+    color: rgb(232, 10, 10);
+    font-size: xx-large;
+}
+p{
+ color:white;  
+ padding: 10px; 
+ font-size: xx-large;
+}
